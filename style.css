@@ -22,7 +22,7 @@ header{
 
 .screen{
   width: 600px;
-  height: 200px;
+  height: 220px;
   background-image: url(./img/space.gif);
   background-size: contain;
   align-self: flex-end;
@@ -30,7 +30,7 @@ header{
   position: absolute;
   z-index: 1;
   overflow: scroll;
-
+  border: 1px solid white;
 }
 
 .notas{
